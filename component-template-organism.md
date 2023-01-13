@@ -1,4 +1,7 @@
 # [Component Name]  
+<!-- Directions are contained within square brackects.
+ Both directions must be removed in final component documentation file -->
+
    
 ## Purpose  
 [What does this do for the user?  
