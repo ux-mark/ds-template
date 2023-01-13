@@ -1,7 +1,7 @@
 # [Component Name]
 <!-- Directions are contained within square brackects.
  Example for reference in comments is a Button component.
- Both directions and examples should be removed in component documentation file -->
+ Both directions and examples must be removed in final component documentation file -->
 
 ## Purpose
 [ What does this do for the user?
